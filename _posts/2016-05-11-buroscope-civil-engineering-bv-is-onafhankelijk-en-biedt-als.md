@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'BuroScope Civil Engineering bv heeft jarenlange ervaring en kan terugvallen op een uitgebreid en betrouwbaar samenwerkingsverband met vakspecialisten. '
-datePublished: '2016-05-11T14:36:03.344Z'
-dateModified: '2016-05-11T14:35:44.454Z'
+description: BuroScope Civil Engineering bv heeft jarenlange ervaring en kan terugvallen op een uitgebreid en betrouwbaar samenwerkingsverband met vakspecialisten.
+datePublished: '2016-05-11T14:40:58.327Z'
+dateModified: '2016-05-11T14:36:10.123Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-11-buroscope-civil-engineering-bv-is-onafhankelijk-en-biedt-als.md
 authors: []
 publisher:
