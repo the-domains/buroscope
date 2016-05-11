@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BuroScope Civil Engineering BV]]></title>
         <description><![CDATA[BuroScope Civil Engineering BV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/buroscope/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 14:32:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 14:36:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/buroscope/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f33d0bf-4e1a-456f-a08d-cc797ccc6341.png">]]></description>
-            <link>undefinedburoscope-civil-engineering-bv-is-onafhankelijk-en-biedt-als/index.html</link>
+            <link>https://thegrid.ai/buroscope/buroscope-civil-engineering-bv-is-onafhankelijk-en-biedt-als/index.html</link>
             <guid isPermaLink="false">eccf7019-55dd-4be2-8534-2e5758309008</guid>
-            <pubDate>Wed, 11 May 2016 14:32:22 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 14:36:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
