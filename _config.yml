@@ -1,28 +1,40 @@
-name: BuroScope
-favicon: null
 layout_spectrum: 0.88561
-typography_spectrum: 0.45841573481447995
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+  saturation: 0.2752901935018599
   brandStrength: 0
   lightness: 0.6473291816655546
-  saturation: 0.2752901935018599
+  brandColors:
+    - '#5A5758'
+    - '#4FBE37'
+    - '#101010'
+    - '#232223'
+    - '#494748'
   rhythmicContrast: 0.5452535061631352
-purpose: []
+typography_spectrum: 0.31362
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: BuroScope
