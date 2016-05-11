@@ -1,29 +1,41 @@
-name: BuroScope Civil Engineering BV
-favicon: null
-layout_spectrum: 0.49669
-typography_spectrum: 0.14536
 title: BuroScope Civil Engineering BV
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.75
+  brandStrength: 0.4725209
+  lightness: 0.9375
   brandColors:
     - '#5a5758'
     - '#4fbe37'
     - '#000000'
     - '#008000'
     - '#00ff00'
-  brandStrength: 1
-  lightness: 0.9375
-  saturation: 0.75
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: BuroScope Civil Engineering BV
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.14536
+layout_spectrum: 0.4032258
