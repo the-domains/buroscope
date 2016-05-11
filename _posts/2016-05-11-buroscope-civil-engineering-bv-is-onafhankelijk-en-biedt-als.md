@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'BuroScope Civil Engineering bv is onafhankelijk en biedt als allround civieltechnisch engineeringsbureau kwaliteitsgarantie voor vakkundig engineeringswerk, civieltechnische projecten en detachering. We richten ons op (maar beperken ons niet tot) de gemeenten en op een uitgebreid en betrouwbaar samenwerkingsverband met vakspecialisten.'
-datePublished: '2016-05-11T14:11:31.148Z'
-dateModified: '2016-05-11T14:11:24.662Z'
+datePublished: '2016-05-11T14:27:24.345Z'
+dateModified: '2016-05-11T14:24:01.175Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-buroscope-civil-engineering-bv-is-onafhankelijk-en-biedt-als.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: buroscope-civil-engineering-bv-is-onafhankelijk-en-biedt-als/index.html
 _type: Article
 
@@ -24,4 +24,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ee35f76-fe4c-484e-b855-42a492aa8d64.jpg)
 
 BuroScope Civil Engineering bv is onafhankelijk en biedt als allround civieltechnisch engineeringsbureau kwaliteitsgarantie voor vakkundig engineeringswerk, civieltechnische projecten en detachering. We richten ons op (maar beperken ons niet tot) de gemeenten en op een uitgebreid en betrouwbaar samenwerkingsverband met vakspecialisten.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c63027b7-ec13-4f7a-81b2-bf02824b9613.jpg)
