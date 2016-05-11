@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: BuroScope Civil Engineering bv heeft jarenlange ervaring en kan terugvallen op een uitgebreid en betrouwbaar samenwerkingsverband met vakspecialisten.
-datePublished: '2016-05-11T14:44:08.986Z'
-dateModified: '2016-05-11T14:42:37.609Z'
-title: ''
+description: 'BuroScope Civil Engineering bv is onafhankelijk en biedt als allround civieltechnisch engineeringsbureau kwaliteitsgarantie voor vakkundig engineeringswerk, civieltechnische projecten en detachering. We richten ons op (maar beperken ons niet tot) de gemeenten en op een uitgebreid en betrouwbaar samenwerkingsverband met vakspecialisten.'
+datePublished: '2016-05-11T14:45:43.957Z'
+dateModified: '2016-05-11T14:45:20.635Z'
+title: test
 author:
   - name: ''
     url: ''
