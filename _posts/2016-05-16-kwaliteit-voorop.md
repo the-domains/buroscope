@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Kwaliteit voorop
-datePublished: '2016-05-17T19:10:41.467Z'
-dateModified: '2016-05-17T19:09:25.682Z'
+datePublished: '2016-05-17T19:13:06.866Z'
+dateModified: '2016-05-17T19:10:49.561Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-kwaliteit-voorop.md
