@@ -1,14 +1,16 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Kwaliteit voorop
-datePublished: '2016-05-16T17:49:47.801Z'
-dateModified: '2016-05-16T17:49:47.588Z'
+datePublished: '2016-05-17T19:10:41.467Z'
+dateModified: '2016-05-17T19:09:25.682Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-16-kwaliteit-voorop.md
 authors: []
 publisher:
   name: null
@@ -16,9 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-16-kwaliteit-voorop.md
-url: kwaliteit-voorop/index.html
-_type: Article
+_type: Blurb
 
 ---
 **_Kwaliteit voorop_**
